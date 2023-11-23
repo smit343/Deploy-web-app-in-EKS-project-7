@@ -94,6 +94,7 @@ Available routes:
 
 ## Diagram
 
+(https://github.com/smit343/Deploy-web-app-in-EKS-project-7/assets/60944678/c2b25e5e-3487-4330-b540-b6996a8cde64)
 
 
 ## Authors
